@@ -42,3 +42,10 @@ Cool, got this response :
   original_filename: 'radiolariands' }
 ```
 
+4. get `dotenv` set up to handle your keys (hiding them in the gitignored `.env` file)
+
+5. get file a file upload set up with express and plug that into cloudinary
+  - set up formidable
+    - prove formidable can parse files
+  - get file from formidable to be given to cloudinary
+
