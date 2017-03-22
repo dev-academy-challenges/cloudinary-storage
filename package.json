@@ -1,0 +1,19 @@
+{
+  "name": "cloudinary-storage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^1.8.0",
+    "express": "^4.15.2"
+  },
+  "devDependencies": {
+    "dotenv": "^4.0.0"
+  }
+}
