@@ -80,4 +80,4 @@ Things to consider :
  
 ## Diagram
 
-![alt tag](https://raw.githubusercontent.com/mixmix/cloudinary-storage/master/IMG_3437.JPG)
+![alt tag](https://github.com/kakapo-2017/cloudinary-storage/blob/master/IMG_3437.JPG)
