@@ -78,4 +78,6 @@ Things to consider :
   - the form can be a particular view
   - the `POST` is probably to something like `/api/v1/images`
  
+## Diagram
 
+![alt tag](https://raw.githubusercontent.com/mixmix/cloudinary-storage/master/IMG_3437.JPG)
